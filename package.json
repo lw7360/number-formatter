@@ -1,6 +1,6 @@
 {
   "name": "@lw7360/number-formatter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Formats numbers",
   "main": "index.js",
   "scripts": {
