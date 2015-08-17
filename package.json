@@ -1,0 +1,23 @@
+{
+  "name": "@lw7360/number-formatter",
+  "version": "0.0.1",
+  "description": "Formats numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lw7360/number-formatter.git"
+  },
+  "author": "Larry Wu <lw7360@gmail.com> (http://larrywu.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lw7360/number-formatter/issues"
+  },
+  "homepage": "https://github.com/lw7360/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
