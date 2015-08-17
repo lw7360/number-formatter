@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lw7360/number-formatter.svg?branch=v0.0.2)](https://travis-ci.org/lw7360/number-formatter)
+
 Number Formatter
 =========
 
