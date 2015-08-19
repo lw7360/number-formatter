@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/lw7360/number-formatter.svg?branch=v0.0.2)](https://travis-ci.org/lw7360/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/lw7360/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/lw7360/number-formatter?branch=master)
 
 Number Formatter
 =========
